@@ -11,7 +11,7 @@ On the project folder under src/main/resources
 
 EDIT THE Database info:
 
-#Create Database with name "Lending_Platform", also you can edit the DB IP address spring.datasource.url=jdbc:mysql://127.0.0.1:3306/robot_production?autoReconnect=true&&zeroDateTimeBehavior=convertToNull
+#Create Database with name "Lending_Platform", also you can edit the DB IP address spring.datasource.url=jdbc:mysql://127.0.0.1:3306/Lending_Platform
 
 #Change  the db user  and password.
 

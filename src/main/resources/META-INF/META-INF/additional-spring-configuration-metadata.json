@@ -1,0 +1,31 @@
+{
+  "properties": [
+    {
+      "name": "message.from",
+      "type": "java.lang.String",
+      "description": "Description for message-from-application-properties."
+    },
+    ,
+    {
+      "name": "spring.cloud.vault.profiles",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.vault.profiles."
+    },
+    {
+      "name": "mpesa.stk.consumer.secret",
+      "type": "java.lang.String",
+      "description": "Description for mpesa.stk.consumer.secret."
+    },
+    ,
+    {
+      "name": "mpesa.stk.consumer.key",
+      "type": "java.lang.String",
+      "description": "Description for mpesa.stk.consumer.key."
+    },
+    {
+      "name": "mpesa.stk.consumer.key",
+      "type": "java.lang.String",
+      "description": "Description for mpesa.stk.consumer.key."
+    }
+  ]
+}
